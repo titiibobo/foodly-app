@@ -1,1 +1,1 @@
-# foodly api project
+# foodly App MSc project
